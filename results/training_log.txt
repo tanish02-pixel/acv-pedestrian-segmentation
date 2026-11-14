@@ -1,0 +1,29 @@
+Split: train=120, validation=25, test=25
+Epoch 01/25  loss=0.6544  validation IoU=0.0000
+Epoch 02/25  loss=0.6043  validation IoU=0.0000
+Epoch 03/25  loss=0.5478  validation IoU=0.3503
+Epoch 04/25  loss=0.4938  validation IoU=0.4014
+Epoch 05/25  loss=0.4480  validation IoU=0.4345
+Epoch 06/25  loss=0.4194  validation IoU=0.4578
+Epoch 07/25  loss=0.3971  validation IoU=0.4978
+Epoch 08/25  loss=0.3801  validation IoU=0.5195
+Epoch 09/25  loss=0.3579  validation IoU=0.5339
+Epoch 10/25  loss=0.3388  validation IoU=0.5541
+Epoch 11/25  loss=0.3300  validation IoU=0.5204
+Epoch 12/25  loss=0.3182  validation IoU=0.5239
+Epoch 13/25  loss=0.3059  validation IoU=0.5528
+Epoch 14/25  loss=0.3008  validation IoU=0.5413
+Epoch 15/25  loss=0.2932  validation IoU=0.5713
+Epoch 16/25  loss=0.2779  validation IoU=0.5790
+Epoch 17/25  loss=0.2832  validation IoU=0.5815
+Epoch 18/25  loss=0.2660  validation IoU=0.5912
+Epoch 19/25  loss=0.2553  validation IoU=0.6028
+Epoch 20/25  loss=0.2515  validation IoU=0.6023
+Epoch 21/25  loss=0.2447  validation IoU=0.6067
+Epoch 22/25  loss=0.2381  validation IoU=0.6130
+Epoch 23/25  loss=0.2323  validation IoU=0.6098
+Epoch 24/25  loss=0.2316  validation IoU=0.6189
+Epoch 25/25  loss=0.2282  validation IoU=0.6205
+unet               IoU=0.5903  Dice=0.7424  accuracy=0.9127
+positional_prior   IoU=0.2743  Dice=0.4305  accuracy=0.6787
+all_background     IoU=0.0000  Dice=0.0000  accuracy=0.8376

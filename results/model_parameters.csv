@@ -1,0 +1,10 @@
+block,trainable_parameters
+encoder1,2800
+encoder2,13952
+encoder3,55552
+bottleneck,221696
+decoder3,147712
+decoder2,36992
+decoder1,9280
+classifier,17
+total,488001
